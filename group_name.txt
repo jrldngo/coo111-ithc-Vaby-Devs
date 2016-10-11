@@ -1,5 +1,0 @@
-Group: VaBy Devs
-Members: Bundang, LJ Shaira
-	Godalle, Hannah
-	Manao, Franklin
-	Ngo, Jerald
